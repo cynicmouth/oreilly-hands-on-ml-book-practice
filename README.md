@@ -14,5 +14,5 @@ Cheers
 
 
 
-[1]:https://nbviewer.jupyter.org/github/cynicmouth/Data-Practice-with-Python/blob/master/oreilly_scikit_learn_practice/chapter%202%20-%20housing%20dataset%20walkthrough.ipynb
-[2]:https://nbviewer.jupyter.org/github/cynicmouth/Data-Practice-with-Python/blob/master/oreilly_scikit_learn_practice/Chapter%203%20-%20Classification%20with%20MNIST%20dataset.ipynb
+[1]:https://nbviewer.jupyter.org/github/cynicmouth/oreilly-hands-on-ml-book-practice/blob/master/Chapter%202%20-%20housing%20dataset%20walkthrough.ipynb
+[2]:https://nbviewer.jupyter.org/github/cynicmouth/oreilly-hands-on-ml-book-practice/blob/master/Chapter%203%20-%20Classification%20with%20MNIST%20dataset.ipynb
