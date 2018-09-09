@@ -16,4 +16,4 @@ Cheers
 
 [1]:https://nbviewer.jupyter.org/github/cynicmouth/oreilly-hands-on-ml-book-practice/blob/master/Chapter%202%20-%20housing%20dataset%20walkthrough.ipynb
 [2]:https://nbviewer.jupyter.org/github/cynicmouth/oreilly-hands-on-ml-book-practice/blob/master/Chapter%203%20-%20Classification%20with%20MNIST%20dataset.ipynb
-[3]:https://nbviewer.jupyter.org/github/cynicmouth/oreilly-hands-on-ml-book-practice/blob/master/Chapter%204%20-%20Training%20Linear%20Models.ipynb
+[3]:https://github.com/cynicmouth/oreilly-hands-on-ml-book-practice/blob/master/Chapter%204%20-%20Training%20Linear%20Models.ipynb
