@@ -7,7 +7,7 @@ You can see all finished chapter notes here: <br>
 1. [Chapter 2 - Housing Dataset Walkthrough][1]
 2. [Chapter 3 - Classification with MNIST dataset][2]
 3. [Chapter 4 - Training Linear Models][3]
-
+4. Chapter 5 - Support Vector Machines (Work in Progress)
 <br>
 <br>
 Cheers
